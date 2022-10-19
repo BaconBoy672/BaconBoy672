@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BaconBoy672
+- 👋 Hi, I’m BaconBoy672
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Algebra I
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... creating a VPN
 - 📫 How to reach me ... You don't.
 
